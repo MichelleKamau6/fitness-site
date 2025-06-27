@@ -39,11 +39,11 @@ Grind-Mode/
 
 ## 🧠 Technologies Used
 
-- **HTML5** – Semantic structure
-- **CSS3** – Responsive layouts, gradients, animations
-- **JavaScript (ES6)** – DOM manipulation and API integration
-- **ExerciseDB API** – Public API to fetch workout data
-- **RapidAPI** – API key authentication and rate-limiting
+- HTML5 – Semantic structure
+- CSS3 – Responsive layouts, gradients, animations
+- JavaScript – DOM manipulation and API integration
+- ExerciseDB API – Public API to fetch workout data
+- RapidAPI – API key authentication and rate-limiting
 
 ---
 
