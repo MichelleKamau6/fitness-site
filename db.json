@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "fituser01",
+      "email": "fituser01@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "username": "michwk06",
+      "email": "michwk06@gmail.com",
+      "password": "Mwkija64$52!"
+    },
+    {
+      "name": "kamau",
+      "email": "kamau@gmail.com",
+      "password": "M64$52!",
+      "id": 3
+    }
+  ],
+  "searches": [
+    {
+      "id": 1,
+      "query": "chest",
+      "results": [
+        {
+          "name": "Push-Up",
+          "bodyPart": "chest",
+          "equipment": "body weight",
+          "target": "pectorals"
+        },
+        {
+          "name": "Bench Press",
+          "bodyPart": "chest",
+          "equipment": "barbell",
+          "target": "pectorals"
+        }
+      ],
+      "userId": 2
+    },
+    {
+      "query": "Deadlift",
+      "date": "2025-07-01T20:01:46.365Z",
+      "id": 2
+    },
+    {
+      "query": "pull up",
+      "date": "2025-07-01T20:04:49.467Z",
+      "id": 3
+    },
+    {
+      "query": "Front Squats",
+      "date": "2025-07-01T20:05:57.171Z",
+      "id": 4
+    }
+  ]
+}
